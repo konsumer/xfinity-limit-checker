@@ -5,7 +5,7 @@ Basic tool to check your current xfinity usage.
 You will need git & node/npm installed.
 
 ```sh
-git clone git@github.com/konsumer/xfinity-limit-checker.git
+git clone https://github.com/konsumer/xfinity-limit-checker.git
 cd xfinity-limit-checker
 npm i
 ```
