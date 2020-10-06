@@ -1,0 +1,11 @@
+{
+  "name": "xfinity-limit-checker",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node -r esm index.js"
+  },
+  "dependencies": {
+    "esm": "^3.2.25",
+    "puppeteer": "^5.3.1"
+  }
+}
